@@ -1,0 +1,28 @@
+
+.titulo{
+    color: white;
+}
+.back{
+    background: rgb(207, 163, 184);
+}
+
+.paragrafos{
+color: blue
+
+}
+#titulo2{
+    color: goldenrod;
+}
+
+#paragrafos2{
+color:black;
+}
+
+#back2{
+    background: green ;
+}
+img.imgem1
+{
+   margin: auto;
+   width: 100%;
+}
